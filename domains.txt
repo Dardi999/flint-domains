@@ -16,4 +16,6 @@ atv-ps-eu.amazon.com
 atv-ps-eu.amazon.co.uk
 atv-ps-fe.amazon.co.jp
 atv-ps-fe.amazon.com
-
+m.media-amazon.com
+cloudfront.net
+llnwd.net
