@@ -19,3 +19,15 @@ atv-ps-fe.amazon.com
 m.media-amazon.com
 cloudfront.net
 llnwd.net
+tv.apple.com
+music.apple.com
+apps.apple.com
+itunes.apple.com
+buy.itunes.apple.com
+idmsa.apple.com
+identity.apple.com
+account.apple.com
+appleid.apple.com
+mzstatic.com
+aaplimg.com
+cdn-apple.com
