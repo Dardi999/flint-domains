@@ -3,7 +3,6 @@ primevideo.com
 tv.apple.com
 music.apple.com
 spotify.com
-
 amazon.com
 aiv-cdn.net
 aiv-delivery.net
