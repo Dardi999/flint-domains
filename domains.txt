@@ -3,6 +3,7 @@ primevideo.com
 tv.apple.com
 music.apple.com
 spotify.com
+primevideo.com
 amazon.com
 aiv-cdn.net
 aiv-delivery.net
@@ -15,3 +16,4 @@ atv-ps-eu.amazon.com
 atv-ps-eu.amazon.co.uk
 atv-ps-fe.amazon.co.jp
 atv-ps-fe.amazon.com
+
