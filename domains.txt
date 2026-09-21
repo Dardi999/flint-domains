@@ -4,3 +4,15 @@ tv.apple.com
 music.apple.com
 spotify.com
 ix.kingtv.pw
+amazon.com
+aiv-cdn.net
+aiv-delivery.net
+pv-cdn.net
+atv-ext.amazon.com
+atv-ext-eu.amazon.com
+atv-ext-fe.amazon.com
+atv-ps.amazon.com
+atv-ps-eu.amazon.com
+atv-ps-eu.amazon.co.uk
+atv-ps-fe.amazon.co.jp
+atv-ps-fe.amazon.com
