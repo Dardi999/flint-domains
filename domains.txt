@@ -1,4 +1,4 @@
-
+spotify.com
 accounts.spotify.com
 open.spotify.com
 api.spotify.com
@@ -54,3 +54,4 @@ time-ios.apple.com
 time.apple.com
 xp.apple.com
 gateway.icloud.com
+scdn.com
