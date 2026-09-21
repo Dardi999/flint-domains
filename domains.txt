@@ -31,4 +31,4 @@ open.spotify.com
 api.spotify.com
 spotify.com
 spotify.link
-
+amazonvideo.com
