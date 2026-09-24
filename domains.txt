@@ -64,3 +64,12 @@ time.apple.com
 xp.apple.com
 gateway.icloud.com
 scdn.com
+api.surfshark.com
+my.surfshark.com
+downloads.surfshark.com
+cdn.surfshark.com
+chk.surfshark.com
+stats.surfshark.com
+av.surfshark.com
+avp.surfshark.com
+ux.surfshark.com
