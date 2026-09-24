@@ -97,3 +97,15 @@ us-dal.prod.surfshark.com
 us-lax.prod.surfshark.com
 us-nyc.prod.surfshark.com
 dns.surfshark.com
+music.apple.com
+*.music.apple.com
+itunes.apple.com
+*.itunes.apple.com
+*.apps.apple.com
+*.mzstatic.com
+prod-live-musicapple.v.aaplimg.com
+classical-music.v.aaplimg.com
+itunes.g.aaplimg.com
+*.aaplimg.com
+apple.media
+itun.es
