@@ -69,6 +69,9 @@ apple.in
 *.apple.in
 appletv.com
 appletvapp.apple
+music.apple.com
+*.music.apple.com
+api.music.apple.com
 netflix.com
 netflix.net
 nflxext.com
