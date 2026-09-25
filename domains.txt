@@ -63,8 +63,12 @@ static.ips.apple.com
 tbsc.apple.com
 time-ios.apple.com
 time.apple.com
-
-
+apple.com
+*.apple.com
+apple.in
+*.apple.in
+appletv.com
+appletvapp.apple
 netflix.com
 netflix.net
 nflxext.com
