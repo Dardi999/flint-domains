@@ -1,4 +1,3 @@
-netflix.com.au
 netflix.com
 netflix.net
 nflxext.com
@@ -29,5 +28,6 @@ ios-anycast.prod.ftl.netflix.com
 mobile-ixanycast.ftl.netflix.com
 logs.netflix.com
 netflix.ca
+netflix.com.au
 
 
