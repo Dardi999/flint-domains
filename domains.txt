@@ -29,5 +29,29 @@ mobile-ixanycast.ftl.netflix.com
 logs.netflix.com
 netflix.ca
 netflix.com.au
+youtube.com
+m.youtube.com
+googlevideo.com
+*.googlevideo.com
+youtu.be
+youtube-nocookie.com
+youtubeeducation.com
+youtubei.googleapis.com
+youtube.googleapis.com
+jnn-pa.googleapis.com
+ytimg.com
+*.ytimg.com
+s.ytimg.com
+i.ytimg.com
+ggpht.com
+*.ggpht.com
+yt3.ggpht.com
+ytimg.l.google.com
+s.youtube.com
+video-stats.l.google.com
+youtube-ui.l.google.com
+suggestqueries.google.com
+suggestqueries-clients6.youtube.com
+accounts.google.com
 
 
