@@ -56,5 +56,11 @@ accounts.google.com
 ftl-www.netflix.com
 cloud.ftl4.netflix.com
 nrdp25.push.prod.netflix.com
+occ-0-55-56.1.nflxso.net
+uiboot.netflix.com
+customerevents.netflix.com
+nrdp.prod.cloud.netflix.com
+api-global.netflix.com
+
 
 
