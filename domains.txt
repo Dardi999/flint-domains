@@ -53,5 +53,8 @@ youtube-ui.l.google.com
 suggestqueries.google.com
 suggestqueries-clients6.youtube.com
 accounts.google.com
+ftl-www.netflix.com
+cloud.ftl4.netflix.com
+nrdp25.push.prod.netflix.com
 
 
