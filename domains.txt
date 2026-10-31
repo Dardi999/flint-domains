@@ -2,7 +2,6 @@ accounts.google.com
 youtube.com
 m.youtube.com
 googlevideo.com
-*.googlevideo.com
 youtu.be
 youtube-nocookie.com
 youtubeeducation.com
@@ -10,11 +9,9 @@ youtubei.googleapis.com
 youtube.googleapis.com
 jnn-pa.googleapis.com
 ytimg.com
-*.ytimg.com
 s.ytimg.com
 i.ytimg.com
 ggpht.com
-*.ggpht.com
 yt3.ggpht.com
 ytimg.l.google.com
 s.youtube.com
