@@ -50,7 +50,11 @@ edgesuite.net
 edgekey.net
 sentry.io
 netflixdnstest10.com
-
+45.57.0.0/17
+198.38.96.0/19
+23.246.0.0/18
+64.120.128.0/17
+66.197.128.0/17
 
 
 
